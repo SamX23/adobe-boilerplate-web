@@ -1,9 +1,9 @@
-# Your Project's Title...
+# Landing Page Created Using Adobe Boilerplate
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: [https://main--adobe-boilerplate-web--SamX23.hlx.page/](https://main--adobe-boilerplate-web--SamX23.hlx.page/)
+- Live: [https://main--adobe-boilerplate-web--SamX23.hlx.live/](https://main--adobe-boilerplate-web--SamX23.hlx.live/)
 
 ## Installation
 
